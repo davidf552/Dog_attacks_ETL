@@ -14,7 +14,7 @@ This project consists on the following:
 
 ## Extract
 
-First we download the dataset from ![Kaggle about fatal dog attacks in the US during the 2022 year.](https://www.kaggle.com/datasets/kabhishm/fatal-dog-attacks-in-the-us-202022)
+First we download the dataset from [Kaggle about fatal dog attacks in the US during the 2022 year.](https://www.kaggle.com/datasets/kabhishm/fatal-dog-attacks-in-the-us-202022)
 
 
 Then, using the Pandas module from Python, the dataset is loaded into a dataframe. Data frames are a powerful tool to modify huge amounts of data in a way that will be difficult to do with Excel.
