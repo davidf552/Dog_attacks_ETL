@@ -22,7 +22,7 @@ Then, using the Pandas module from Python, the dataset is loaded into a datafram
 
 
 ## Transform
-The information inside the dataframe however, it is not yet ready to deploy and requires a couple of changes.
+The information inside the dataframe however, is not yet ready to deploy and requires a couple of changes.
 
 
 For example, the date should be divided into another field called "Month" and another called "Day". This is done to make queries, and obtain results, quicker.
