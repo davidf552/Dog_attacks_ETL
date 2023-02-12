@@ -35,3 +35,14 @@ The number of dogs of each attack is important. However, the mentioned number is
 
 The end result will be like this:
 ![modified](https://user-images.githubusercontent.com/103103116/218300832-6863792e-44c6-4602-af25-d6674f9fbfd8.PNG)
+
+
+
+## Load
+The modified dataframe obtained in the previous step will then be loaded to a database, according to the needs of the client. In this project, the DBMS will be PostgreSQL.
+
+
+The database can be either locally hosted or deployed in the cloud. The only information needed are the database credentials and location.
+
+
+Once the information is successfully loaded, a client-software is needed to access the database and make queries. This project uses pgAdmin 4 but using other programs will get the same result.
