@@ -25,5 +25,13 @@ Then, using the Pandas module from Python, the dataset is loaded into a datafram
 The information inside the dataframe however, is not yet ready to deploy and requires a couple of changes.
 
 
-For example, the date should be divided into another field called "Month" and another called "Day". This is done to make queries, and obtain results, quicker.
+![original_df](https://user-images.githubusercontent.com/103103116/218300814-5dc667db-782a-48a2-bfc9-b97b165b9363.PNG)
+
+
+
+For example, **the date should be split into two fields**: one field called "Month" and another called "Day". This is done to make queries, and obtain results, quicker.
 The number of dogs of each attack is important. However, the mentioned number is inside the "Dog type" field and must be extracted to another field.
+
+
+The end result will be like this:
+![modified](https://user-images.githubusercontent.com/103103116/218300832-6863792e-44c6-4602-af25-d6674f9fbfd8.PNG)
