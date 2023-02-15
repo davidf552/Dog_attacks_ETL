@@ -1,4 +1,3 @@
-import pandas as pd 
 import psycopg2 
 
 def create_dog_table(conn,cursor):
