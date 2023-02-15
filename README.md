@@ -72,18 +72,16 @@ In this section, the database will be queried to provide some information:
 
 ![attacks_state](https://user-images.githubusercontent.com/103103116/218970508-9ed9b76e-f241-4652-a36d-0f2a5e015a1a.PNG)
 
-- The average of dog attacks per state during the year 2022.
-
-![average](https://user-images.githubusercontent.com/103103116/218970612-8807ed61-19d9-494a-91fd-32191dd6de79.PNG)
 
 - The average of dog attacks per month during the year 2022.
 
 ![avg_month](https://user-images.githubusercontent.com/103103116/218970733-c11edf8d-0163-4eac-96f4-e5e49454e405.PNG)
 
 
-- The top 3 states with dog attacks during the year 2022.
+- The top 5 states with dog attacks during the year 2022.
 
-![top_three](https://user-images.githubusercontent.com/103103116/218971332-2b89eef5-7b00-488f-a275-fc63cc16cf28.PNG)
+![avg_state](https://user-images.githubusercontent.com/103103116/218975392-c8a777ac-2b92-4353-aded-effccc8b41fc.PNG)
+
 
 
 [Return](#introduction)
