@@ -55,7 +55,8 @@ In this project, the database system will be PostgreSQL and the loading will be 
 
 Once the information is successfully loaded, a client-software is needed to access the database and make queries. This project uses pgAdmin 4 as a client.
 
-![database](https://user-images.githubusercontent.com/103103116/218972517-43d9bafb-223e-4016-8779-81fef6776d0e.PNG)
+![database](https://user-images.githubusercontent.com/103103116/218974660-b2849282-a876-4822-bfcb-a6642e982414.PNG)
+
 
 [Return](#introduction)
 ### Data
